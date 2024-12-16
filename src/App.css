@@ -1,0 +1,20 @@
+.App {
+      text-align: center;
+      padding: 20px;
+    }
+
+    input[type="file"], textarea, select, button {
+      margin: 10px;
+      padding: 8px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+
+    input[type="range"] {
+      width: 200px;
+    }
+
+    img {
+      margin-top: 20px;
+      border: 1px solid #ccc;
+    }
